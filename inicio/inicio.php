@@ -13,7 +13,7 @@
   <!-- HEADER -->
   <header class="header">
     <h1>
-      <img src="../img/logo.jpeg" alt="Logo" />
+      <img class="avatar" src="../img/logo.jpeg" alt="logo de la fet">
     </h1>
   </header>
 
